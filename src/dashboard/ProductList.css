@@ -1,0 +1,14 @@
+.group .list {
+    width: 66.5vw;
+    height: 87vh;
+    background-color: #fff;  
+    padding-left: 16px;
+    overflow: scroll;
+    -ms-overflow-style: none;
+    padding: 5px;
+  }
+  
+  .list::-webkit-scrollbar { 
+    width: 0 !important;
+    display: none; 
+  }

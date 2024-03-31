@@ -1,0 +1,17 @@
+.dashboard_container{
+    /* border: 2px solid red; */
+    height :auto;
+}
+.dashboard_items{
+        padding-left: 2rem;
+        padding: 0.8rem;
+        border:1px solid gray;
+        margin: 0px;
+        cursor: pointer;
+}
+.dashboard_items:hover{
+       background-color: rgb(255, 39, 39);
+       color: white !important;
+       /* border: 1px solid white; */
+}
+
